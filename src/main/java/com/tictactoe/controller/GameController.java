@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.controller;
+package com.tictactoe.controller;
 
 import com.tictactoe.model.Game;
 import com.tictactoe.model.GameState;

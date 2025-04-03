@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.model;
+package com.tictactoe.model;
 
 public enum GameState {
     IN_PROGRESS,

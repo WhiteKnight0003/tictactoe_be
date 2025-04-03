@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.model;
+package com.tictactoe.model;
 
 public class Move {
     private int row;

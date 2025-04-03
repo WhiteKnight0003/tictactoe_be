@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.service;
+package com.tictactoe.service;
 
 public class GameService {
 }

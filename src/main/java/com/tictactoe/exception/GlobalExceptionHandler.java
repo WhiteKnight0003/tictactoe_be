@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.exception;
+package com.tictactoe.exception;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

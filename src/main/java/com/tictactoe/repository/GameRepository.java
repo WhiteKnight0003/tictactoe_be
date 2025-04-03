@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.repository;
+package com.tictactoe.repository;
 
 import com.tictactoe.model.Game;
 import org.springframework.beans.factory.annotation.Autowired;

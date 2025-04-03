@@ -1,4 +1,4 @@
-package main.java.com.tictactoe.model;
+package com.tictactoe.model;
 
 import java.io.Serializable;
 
